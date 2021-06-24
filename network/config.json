@@ -10,7 +10,7 @@
   "text": {
     "more": "",
     "intro": "",
-    "title": "volume 5"
+    "title": "volume 4"
   },
   "legend": {
     "edgeLabel": "Closeness",
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Betweenness Centrality",
+    "groupSelectorAttribute": false,
     "hoverBehavior": "dim"
   },
   "informationPanel": {
